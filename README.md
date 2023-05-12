@@ -1,11 +1,11 @@
 ![Header](https://github.com/MariyaFuntova/MariyaFuntova/blob/main/assets/1.png)
 # I am beginner QA Engineer
 
-My CV
+[My CV]()
 
 ## Testing Documentation
 * [Checklists](https://github.com/MariyaFuntova/checklists.git)
-* [Test-Cases]
+* [Test-Cases](https://github.com/MariyaFuntova/test-cases.git)
 * [Bug-Reports]
 * [Postman Collections]
 
@@ -18,6 +18,8 @@ My CV
 ![devtools](https://img.shields.io/badge/-devtools-090909?style=for-the-badge&logo=devtools)
 ![mysql](https://img.shields.io/badge/-mysql-090909?style=for-the-badge&logo=mysql)
 
-### 
+### Socials
 
 ![hubr](https://img.shields.io/badge/-hubr-090909?style=for-the-badge&logo=hubr)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
