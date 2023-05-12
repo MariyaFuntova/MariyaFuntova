@@ -4,10 +4,10 @@
 My CV
 
 ## Testing Documentation
-* ![Checklists](https://github.com/MariyaFuntova/checklists.git)
-* Test-Cases
-* Bug-Reports
-* Postman Collections
+* [Checklists](https://github.com/MariyaFuntova/checklists.git)
+* [Test-Cases]
+* [Bug-Reports]
+* [Postman Collections]
 
 ## Language and Tools
 
