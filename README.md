@@ -1,6 +1,4 @@
-### 
 ![Header](https://github.com/MariyaFuntova/MariyaFuntova/blob/main/assets/1.png)
-
 # I am beginner QA Engineer
 
 My CV
