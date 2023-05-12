@@ -1,5 +1,5 @@
 ### 
-![Header](https://github.com/MariyaFuntova/MariyaFuntova/blob/main/assets/Без%20имени.png)
+![Header](https://github.com/MariyaFuntova/MariyaFuntova/blob/main/assets/1.png)
 
 # I am beginner QA Engineer
 
