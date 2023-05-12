@@ -19,4 +19,6 @@ My CV
 ![devtools](https://img.shields.io/badge/-devtools-090909?style=for-the-badge&logo=devtools)
 ![mysql](https://img.shields.io/badge/-mysql-090909?style=for-the-badge&logo=mysql)
 
-## Follow me
+### Follow me
+
+![hubr](https://img.shields.io/badge/-hubr-090909?style=for-the-badge&logo=hubr)
