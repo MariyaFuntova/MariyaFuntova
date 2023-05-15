@@ -6,7 +6,7 @@
 ## Testing Documentation
 * [Checklists](https://github.com/MariyaFuntova/checklists.git)
 * [Test-Cases](https://github.com/MariyaFuntova/test-cases.git)
-* [Bug-Reports]
+* [Bug-Reports](https://github.com/MariyaFuntova/bug-reports.git)
 * [Postman Collections]
 
 ## Language and Tools
@@ -20,6 +20,6 @@
 
 ### Socials
 
-![hubr](https://img.shields.io/badge/-hubr-090909?style=for-the-badge&logo=hubr)
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MariyaFuntova&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
