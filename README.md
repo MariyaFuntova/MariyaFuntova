@@ -7,7 +7,7 @@
 * [Checklists](https://github.com/MariyaFuntova/checklists.git)
 * [Test-Cases](https://github.com/MariyaFuntova/test-cases.git)
 * [Bug-Reports](https://github.com/MariyaFuntova/bug-reports.git)
-* [Postman Collections]
+
 
 ## Language and Tools
 
