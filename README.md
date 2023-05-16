@@ -1,7 +1,7 @@
 ![Header](https://github.com/MariyaFuntova/MariyaFuntova/blob/main/assets/1.png)
 # I am beginner QA Engineer
 
-[My CV]()
+[My CV](https://docs.google.com/document/d/1-wIJVf7j07m9UNqPJP4sJP4JXcEKYIEmJxO1BudeWyc/edit?usp=sharing)
 
 ## Testing Documentation
 * [Checklists](https://github.com/MariyaFuntova/checklists.git)
@@ -22,4 +22,4 @@
 [![telegram](https://img.shields.io/badge/-telegram-090909?style=for-the-badge&logo=telegram)](https:t.me/mashaa0107)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MariyaFuntova&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MariyaFuntova)](https://github.com/MariyaFuntova/github-readme-stats)
