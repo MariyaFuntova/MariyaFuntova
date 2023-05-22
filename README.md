@@ -19,7 +19,7 @@
 ![mysql](https://img.shields.io/badge/-mysql-090909?style=for-the-badge&logo=mysql)
 
 ### Socials
-[![telegram](https://img.shields.io/badge/-telegram-090909?style=for-the-badge&logo=telegram)](https:t.me/mashaa0107)
+[![telegram](https://img.shields.io/badge/-telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/mashaa0107)
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MariyaFuntova)](https://github.com/MariyaFuntova/github-readme-stats)
